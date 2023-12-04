@@ -1,0 +1,49 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+     font-family: cursive;
+	color: #2b77ad;
+	background-image: url("back.jpg");
+	background-size: cover;
+}
+header{
+	background-color: black;
+	color:white;
+	text-align: center;
+
+}
+#box1{
+	background-color: #2b77ad;
+	color:red;
+}
+/*#p1{
+	border-radius: 15%;
+	border: 2px;
+	border-color: white;
+}*/
+#box2{
+	height: 650px;
+	width:750px;
+	font-size: 25px;
+	border: 2px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-left: 40px;
+	/*background-color: gray;*/
+	border-color: black;
+	border-radius: 25%;
+}
+button{
+	background-color:transparent;
+	color:red; 
+	border-radius: 25%;
+	height: 50px;
+	width: 60px;
+}
+footer{
+	background-color: black;
+	color:white;
+}
